@@ -20,7 +20,7 @@ with st.sidebar:
     st.title("📄 LegalBot")
     st.markdown("Ask questions based on the uploaded legal PDF.")
     st.markdown("🔗 Made by **Ansh Varshney**")
-    st.markdown("[Connect on LinkedIn](https://www.linkedin.com/in/anshvarshney-4b6466278///)")
+    st.markdown("[Connect on LinkedIn](https://www.linkedin.com/in/ansh-varshney-4b6466278")
 
 # --- Loading PDF Text ---
 @st.cache_data
